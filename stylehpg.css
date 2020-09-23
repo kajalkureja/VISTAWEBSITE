@@ -142,24 +142,12 @@ h3.examheader{
 .icenter{
    margin-left:44%;
 }
-#bg .video-container {
-    height: 500px;
-    width: 500px;
-    overflow: hidden;
-    position: relative;
-}
 
-#bg video {
-  min-width: 100%;
-  min-height: 100%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateX(-50%) translateY(-50%);
-}
-#bg h1{
+#bg h2{
     font-size: 50px;
     font-weight:bold;
+    color:#0A192F;
+    text-align: center;
 }
 a.button{
   -webkit-appearance: button;
